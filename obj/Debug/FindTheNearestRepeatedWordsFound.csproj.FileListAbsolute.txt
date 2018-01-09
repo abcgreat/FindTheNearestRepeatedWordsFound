@@ -1,0 +1,6 @@
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\FindTheNearestRepeatedWordsFound\bin\Debug\FindTheNearestRepeatedWordsFound.exe.config
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\FindTheNearestRepeatedWordsFound\bin\Debug\FindTheNearestRepeatedWordsFound.exe
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\FindTheNearestRepeatedWordsFound\bin\Debug\FindTheNearestRepeatedWordsFound.pdb
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\FindTheNearestRepeatedWordsFound\obj\Debug\FindTheNearestRepeatedWordsFound.csprojResolveAssemblyReference.cache
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\FindTheNearestRepeatedWordsFound\obj\Debug\FindTheNearestRepeatedWordsFound.exe
+C:\Users\Abcgreat\documents\visual studio 2015\Projects\CodingPractice\FindTheNearestRepeatedWordsFound\obj\Debug\FindTheNearestRepeatedWordsFound.pdb
